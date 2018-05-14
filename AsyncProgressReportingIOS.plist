@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/daesang/PostgreSQL/raw/master/AsyncProgressReportingIOS.ipa</string>
+					<string>http://localhost:7001/bcwms/mobile/AsyncProgressReportingIOS.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
