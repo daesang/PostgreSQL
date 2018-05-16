@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.34.21.190:7001/bcwms/mobile/AsyncProgressReportingIOS.ipa</string>
+					<string>http://192.168.0.105:7001/bcwms/mobile/AsyncProgressReportingIOS.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
